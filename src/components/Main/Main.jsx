@@ -1,7 +1,7 @@
 import React, { useContext } from 'react'
 import './Main.css'
-import { assets } from '../../assets/assets.js'
-import { Context } from '../../context/Context.jsx'
+import { assets } from '../../assets/assets'
+import { Context } from '../../context/Context'
 
 const Main = () => {
 
@@ -63,13 +63,14 @@ const Main = () => {
                     </div>
                 }
 
+
                 <div className="main-bottom">
                     <div className="search-box">
                         <input
                             onChange={(e) => setInput(e.target.value)}
                             value={input}
                             type="text"
-                            placeholder='Enter a prompt here'
+                            placeholder='Enter a promp here'
                         />
                         <div>
                             <img src={assets.gallery_icon} alt="Gallery Icon" />
@@ -89,4 +90,4 @@ const Main = () => {
     )
 }
 
-export default Main
+export default Main;
