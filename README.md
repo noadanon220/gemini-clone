@@ -10,7 +10,7 @@ A Google Gemini AI clone I built using React and the Gemini API. This was a fun 
 
 ### Home Screen | Chat Interface | Response Effect
 
-<img src="./screenshots/home.png" width="30%" /> <img src="./screenshots/chat.png" width="30%" /> <img src="./screenshots/response-effect.png" width="30%" />
+<img src="./screenshots/home.png" width="32%" style="margin: 0 10px;" /> <img src="./screenshots/chat.png" width="32%" style="margin: 0 10px;" /> <img src="./screenshots/response-effect.png" width="32%" style="margin: 0 10px;" />
 
 </div>
 
@@ -97,4 +97,5 @@ Don't push your `.env` file to GitHub! It's already in `.gitignore` but just mak
 ---
 
 Made by [Noa Danon](https://github.com/noadanon220)
+
 
