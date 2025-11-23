@@ -9,18 +9,14 @@ A Google Gemini AI clone I built using React and the Gemini API. This was a fun 
 <div align="center">
 
 ### Home Screen
-<img src="./screenshots/home.png" width="48%" />
+<img src="./screenshots/home.png" width="50%" />
 
 ### Chat Interface & Response Effect
-<img src="./screenshots/chat.png" width="48%" /> <img src="./screenshots/response-effect.png" width="48%" />
+<img src="./screenshots/chat.png" width="50%" /> <img src="./screenshots/response-effect.png" width="50%" />
 
 </div>
 
-### Demo Video
 
-<video src="./videos/screen-gemini-recording.mp4" controls width="600"></video>
-
----
 
 ## What it does
 
@@ -99,6 +95,7 @@ Don't push your `.env` file to GitHub! It's already in `.gitignore` but just mak
 ---
 
 Made by [Noa Danon](https://github.com/noadanon220)
+
 
 
 
