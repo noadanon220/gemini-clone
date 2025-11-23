@@ -136,6 +136,11 @@
     gap: 20px;
 }
 
+.result-title img {
+    width: 40px;
+    border-radius: 50%;
+}
+
 .result-data {
     display: flex;
     align-items: start;
@@ -161,7 +166,7 @@
     background-color: #f6f7f8;
     height: 20px;
     animation: loader 3s infinite linear;
-    background: linear-gradient(to right, #9ed7ff, #ffffff, #9ed7ff);
+    background: linear-gradient(to right, #9faacb, #ddd, #9faacb);
     background-size: 800px 50px;
 }
 
@@ -191,5 +196,30 @@
 
     .search-box div {
         gap: 5px;
+    }
+
+    .main .nav p {
+        font-size: 20px;
+    }
+
+    .main .nav img {
+        width: 30px;
+    }
+
+    .main .greet {
+        font-size: 40px;
+    }
+
+    .main .cards {
+        grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+    }
+
+    .main .card {
+        padding: 10px;
+        height: 150px;
+    }
+
+    .main .card img {
+        width: 25px;
     }
 }
