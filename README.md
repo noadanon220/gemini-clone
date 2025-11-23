@@ -4,6 +4,22 @@ A Google Gemini AI clone I built using React and the Gemini API. This was a fun 
 
 🔗 **Live Demo**: [https://gemini-clone-noa.vercel.app/](https://gemini-clone-noa.vercel.app/)
 
+## Screenshots
+
+<div align="center">
+
+### Home Screen | Chat Interface | Response Effect
+
+<img src="./screenshots/home.png" width="30%" /> <img src="./screenshots/chat.png" width="30%" /> <img src="./screenshots/response-effect.png" width="30%" />
+
+</div>
+
+### Demo Video
+
+https://github.com/user-attachments/assets/screen-recording.mp4
+
+---
+
 ## What it does
 
 This is a working chat interface that connects to Google's Gemini AI. You can ask it questions and get responses just like the real Gemini. I added some nice touches like a typing animation for responses and a sidebar to keep track of your chat history.
@@ -81,3 +97,4 @@ Don't push your `.env` file to GitHub! It's already in `.gitignore` but just mak
 ---
 
 Made by [Noa Danon](https://github.com/noadanon220)
+
