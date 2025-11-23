@@ -24,19 +24,19 @@ const Main = () => {
                             <p>How can I help you today?</p>
                         </div>
                         <div className="cards">
-                            <div className="card">
+                            <div className="card" onClick={() => onSent("Suggest beautiful places to see on an upcoming road trip")}>
                                 <p>Suggest beautiful places to see on an upcoming road trip</p>
                                 <img src={assets.compass_icon} alt="Compass Icon" />
                             </div>
-                            <div className="card">
+                            <div className="card" onClick={() => onSent("Briefly explain what I need to learn about React JS")}>
                                 <p>Briefly explain what I need to learn about React JS</p>
                                 <img src={assets.bulb_icon} alt="Bulb Icon" />
                             </div>
-                            <div className="card">
+                            <div className="card" onClick={() => onSent("Brainstorm ways to make a product more sustainable")}>
                                 <p>Brainstorm ways to make a product more sustainable</p>
                                 <img src={assets.message_icon} alt="Message Icon" />
                             </div>
-                            <div className="card">
+                            <div className="card" onClick={() => onSent("Improve the readability of the following code")}>
                                 <p>Improve the readability of the following code</p>
                                 <img src={assets.code_icon} alt="Code Icon" />
                             </div>
