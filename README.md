@@ -18,7 +18,7 @@ A Google Gemini AI clone I built using React and the Gemini API. This was a fun 
 
 ### Demo Video
 
-https://github.com/user-attachments/assets/d0cef4d2-c8fc-41c4-96b7-6e26b10f2ebb
+[🎥 Watch the demo video](https://github.com/noadanon220/gemini-clone/issues/6#issue-3655957614)
 
 ---
 
@@ -99,3 +99,4 @@ Don't push your `.env` file to GitHub! It's already in `.gitignore` but just mak
 ---
 
 Made by [Noa Danon](https://github.com/noadanon220)
+
